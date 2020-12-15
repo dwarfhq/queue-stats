@@ -1,6 +1,6 @@
 <?php
 
-namespace Crazybooot\QueueStats\QueueStats\Make;
+namespace Crazybooot\QueueStats\Make;
 
 use Illuminate\Foundation\Console\JobMakeCommand;
 
