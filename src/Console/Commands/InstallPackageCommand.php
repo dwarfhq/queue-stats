@@ -1,7 +1,7 @@
 <?php
-declare(strict_types  = 1);
+declare(strict_types=1);
 
-namespace Crazybooot\QueueStats\Commands;
+namespace Crazybooot\QueueStats\QueueStats\Commands;
 
 use Crazybooot\QueueStats\Providers\QueueStatsServiceProvider;
 use Illuminate\Console\Command;
